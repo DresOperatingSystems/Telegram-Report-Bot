@@ -16,9 +16,9 @@ cd Telegram-Report-Bot
 
 pip install -r requirements.txt
 
-nano dresbanbotscript1.py (change the api token)
+nano Dresbanbotscript1.py (change the api token)
 
-python dresbanbot1.py
+python Dresbanbot1.py
 
 Obviously change the number of the script to the one you would like to use
 
