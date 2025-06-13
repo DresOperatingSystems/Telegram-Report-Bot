@@ -10,7 +10,7 @@ First please go to @BotFather over on telegram and create a bot taking down the 
 
 Secondly go into your terminal then copy and paste the steps below. 
 
-git clone https://github.com/DresOperatingSystems/Telegram-Report-Bot
+git clone https://<i></i>github.com/DresOperatingSystems/Telegram-Report-Bot
 
 cd Telegram-Report-Bot
 
