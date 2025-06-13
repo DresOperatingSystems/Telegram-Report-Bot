@@ -25,6 +25,7 @@ Obviously change the number of the script to the one you would like to use
 Afterwards go into telegram go message your bot /start then begin the process of reporting 
 
 TO DO LIST:::::     
+
 1}Add error handling
 2}Debug script 2
 3}Add exclusive chat id to the scripts
